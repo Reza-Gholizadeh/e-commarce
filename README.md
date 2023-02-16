@@ -1,2 +1,2 @@
-# e-commarce
+# e-commerce
 panel admin for e-commerce 
